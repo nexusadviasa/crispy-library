@@ -6,7 +6,7 @@ Berikut adalah Koleksi yang dimiliki:
 
 ## Koleksi
 1. [Aplikasi Teknologi Informasi: Teori dan Implementasi](ebook/SEMM-SURAT EDARAN KULIAH ONLINE_250831_1945.pdf) - Ramen A. Purba, dkk (2020)
-2. Contoh buku lain
+2. [Si Anak Pelangi](ebook/Si Anak Pelangi by Tere Liye.pdf) - Tere liye (2019)
 ---
 
 *Powered by Github Pages*
