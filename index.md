@@ -18,5 +18,6 @@ Berikut adalah Koleksi yang dimiliki:
 11. [Resume Kuliah Umum](ebook/Resume Kuliah Umum - Narendra(093).pdf) - Narendra Adviasa (2025)
 
 ---
+[ini link html](web ti/halaman1.html) - hehe
 
 *Powered by Github Pages*
