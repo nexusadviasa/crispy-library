@@ -22,5 +22,6 @@ Berikut adalah Koleksi yang dimiliki:
 [ini link html](web ti/halaman1.html) - hehe
 [ini halaman lima](web ti/halaman5.html) - hoho
 [ini halaman enam](web ti/halaman6.html) - hihi
+[kalo ini halaman tujuh](web ti/halaman7.html) - haha
 
 *Powered by Github Pages*
